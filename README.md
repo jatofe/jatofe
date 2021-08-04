@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jatofe
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Security and pentesting
+- 🌱 I’m currently learning security and pentesting
 - 💞️ I’m looking to collaborate on penetration tests
 - 📫 How to reach me ...
 
